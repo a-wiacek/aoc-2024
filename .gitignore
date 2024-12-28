@@ -1,0 +1,2 @@
+inputs/*.txt
+!inputs/day24b.txt
